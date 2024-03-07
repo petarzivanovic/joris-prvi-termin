@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 neki tekst na master grani
+=======
+novi tekst dodat na grani nova-grana
+>>>>>>> nova-grana
